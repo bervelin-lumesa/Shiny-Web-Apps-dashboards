@@ -8,3 +8,5 @@ produced in France in 2003 by INSEE. In this example, we just used the first 300
 This dashboard is not for analytical purpose, but just to show what can be done with shiny and shinydashboard packages.
 
 The live dashboard is available [here](https://bervelin.shinyapps.io/dataviz-hdv2003/)
+
+![Image of the dashboard](https://github.com/bervelin-lumesa/shiny-dashboards/blob/main/hdv2003-dashboard/hdv2003_app.PNG)
