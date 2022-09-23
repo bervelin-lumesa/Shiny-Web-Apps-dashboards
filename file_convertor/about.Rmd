@@ -1,0 +1,36 @@
+
+
+# Convert your file with Excel, CSV, SPSS and Stata
+
+## This App helps you to convert your file from one format to another such :
+
+- *CSV*
+
+- *Excel*
+
+- *SPSS* and 
+
+- *Stata*
+
+
+--------------------------------------------------------------------
+### Updates : 
+
+*v1.1*
+
+- *specify the sheet to convert for Excel files*
+- *Text file conversion*
+- *adding space as separator for text files* 
+
+*v1.2*
+
+- *File extension is now detected automatically*
+
+### Problems : 
+- *Errors to convert files containing space in variable names (will be fixed soon)*
+
+--------------------------------------------------------------------
+
+### _Created by <a href = 'https://bervelin-lumesa.netlify.app' target = '_blank'>Bervelin LUMESA</a>, a Statistician - Data scientist._ 
+
+### _You can also find me on <a href = 'https://www.linkedin.com/in/bervelin-lumesa' target = '_blank'>Linkedin</a>. Some of my projects are on <a href = 'https://www.github.com/bervelin-lumesa' target = '_blank'>Github</a>._
